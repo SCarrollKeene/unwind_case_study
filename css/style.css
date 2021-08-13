@@ -79,6 +79,29 @@ body * {
     box-shadow: 8px 8px 8px 1px  rgba(0, 0, 0, .2);
 }
 
+.empathyContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.empathyImgContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    padding: 2.2rem;
+    margin: 1.1rem;
+}
+
+.empathyImg {
+    object-fit: cover;
+    min-width: 100%;
+    min-height: 100%;
+    box-shadow: 8px 8px 8px 1px  rgba(0, 0, 0, .2);
+}
+
 .problemContainer {
     display: flex;
     flex-direction: column;
