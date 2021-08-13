@@ -4,9 +4,11 @@ body * {
 
 .ternBackground {
     background-image: url(../images/tern-banner.png);
-    background-size: contain;
+    background-position: center top;
+    background-size: cover;
     background-repeat: no-repeat;
-    height: 400px;
+    background-color: #21BDBD;
+    height: 600px;
     max-width: 100%;
     display: flex;
     align-items: center;
