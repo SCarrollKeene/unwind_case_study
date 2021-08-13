@@ -125,3 +125,8 @@ body * {
     max-width: 50%;
     box-shadow: 8px 8px 8px 1px  rgba(0, 0, 0, .2);
 }
+
+.footerContainer {
+    background-color: #21BDBD;
+    color: white;
+}
