@@ -151,6 +151,32 @@ body * {
 }
 
 .footerContainer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
     background-color: #21BDBD;
     color: white;
+    height: 300px;
+    max-width: 100%;
+}
+
+.emailCopy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.myEmail {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+.myEmail a {
+    color: whitesmoke;
+    font-size: 1.1rem;
 }
