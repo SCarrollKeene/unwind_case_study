@@ -173,6 +173,17 @@ body * {
     text-decoration: underline;
 }
 
+.finalContainer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    background-color: #21BDBD;
+    color: white;
+    height: 300px;
+    max-width: 100%;
+}
+
 .footerContainer {
     display: flex;
     flex-direction: column;
