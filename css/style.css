@@ -1,0 +1,67 @@
+body * {
+    list-style-type: none;
+}
+
+.ternBackground {
+    background-image: url(../images/tern-banner.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ternCopy {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    max-width: 100%;
+    padding: 2.2rem;
+    margin: 1.1rem;
+}
+
+.sectionOne,
+.sectionTwo,
+.sectionThree,
+.sectionFour {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}
+
+.researchContainer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    background-color: #188484;
+    color: white;
+    height: 400px;
+    max-width: 100%;
+}
+
+.affinityContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 2.2rem;
+}
+
+.affinityImg {
+    max-width: 100%;
+    box-shadow: 8px 8px 8px 1px  rgba(0, 0, 0, .2);
+}
+
+.problemContainer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    background-color: #188484;
+    color: white;
+    height: 400px;
+    max-width: 100%;
+}
