@@ -150,6 +150,27 @@ body * {
     margin: 35px auto;
 }
 
+.protoContainer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    background-color: #21BDBD;
+    color: white;
+    height: 300px;
+    max-width: 100%;
+}
+
+.ternLink a {
+    text-decoration: none;
+    color: black;
+}
+
+.ternLink a:hover {
+    color: #188484;
+    text-decoration: underline;
+}
+
 .footerContainer {
     display: flex;
     flex-direction: column;
