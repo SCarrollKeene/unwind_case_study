@@ -1,5 +1,6 @@
 body * {
     list-style-type: none;
+    scroll-behavior: smooth;
 }
 
 .ternBackground {
