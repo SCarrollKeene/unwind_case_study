@@ -219,7 +219,6 @@ body * {
     justify-content: center;
     align-items: center;
     padding: 20px;
-    margin: 20px;
 }
 
 .myEmail a {
@@ -229,7 +228,7 @@ body * {
 
 @media only screen and (max-width: 450px) {
     .ternBackground {
-        background-size: contain;
+        background-size: cover;
         max-width: 100%;
         height: 400px;
     }
