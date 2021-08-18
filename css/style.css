@@ -4,11 +4,11 @@ body * {
 }
 
 .ternBackground {
-    background-image: url(../images/tern-banner.png);
+    background-image: url(../images/unwind-banner.png);
     background-position: center top;
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: #21BDBD;
+    background-color: #87C0F5;
     color: white;
     height: 800px;
     max-width: 100%;
@@ -42,7 +42,7 @@ body * {
     flex-direction: column;
     text-align: center;
     justify-content: center;
-    background-color: #21BDBD;
+    background-color: #87C0F5;
     color: white;
     height: 300px;
     max-width: 100%;
@@ -112,7 +112,7 @@ body * {
     flex-direction: column;
     text-align: center;
     justify-content: center;
-    background-color: #21BDBD;
+    background-color: #87C0F5;
     color: white;
     height: 300px;
     max-width: 100%;
@@ -136,7 +136,7 @@ body * {
     flex-direction: column;
     text-align: center;
     justify-content: center;
-    background-color: #21BDBD;
+    background-color: #87C0F5;
     color: white;
     height: 300px;
     max-width: 100%;
@@ -160,19 +160,19 @@ body * {
     flex-direction: column;
     text-align: center;
     justify-content: center;
-    background-color: #21BDBD;
+    background-color: #87C0F5;
     color: white;
     height: 300px;
     max-width: 100%;
 }
 
-.ternLink a {
+.unwindLink a {
     text-decoration: none;
     color: black;
 }
 
-.ternLink a:hover {
-    color: #188484;
+.unwindLink a:hover {
+    color: #87C0F5;
     text-decoration: underline;
 }
 
@@ -181,7 +181,7 @@ body * {
     flex-direction: column;
     text-align: center;
     justify-content: center;
-    background-color: #21BDBD;
+    background-color: #87C0F5;
     color: white;
     height: 300px;
     max-width: 100%;
@@ -192,7 +192,7 @@ body * {
     flex-direction: column;
     text-align: center;
     justify-content: center;
-    background-color: #21BDBD;
+    background-color: #3795ec;
     color: white;
     height: 300px;
     max-width: 100%;
