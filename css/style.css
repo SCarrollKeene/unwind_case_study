@@ -235,6 +235,12 @@ body * {
 
     .ternCopy {
         height: 800px;
+        margin: 0;
+    }
+
+    .affinityContainer {
+        margin: 0;
+        padding: 20px;
     }
 
     .affinityImg {
@@ -249,5 +255,9 @@ body * {
         flex-direction: column;
         justify-content: center;
         align-items: center;
+    }
+
+    .protoCopy {
+        margin: 0;
     }
 }
