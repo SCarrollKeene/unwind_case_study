@@ -123,12 +123,21 @@ body * {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin: 2.2rem;
+    padding: 20px;
 }
 
 .personaImg {
-    max-width: 50%;
+    max-width: 90%;
     box-shadow: 8px 8px 8px 1px  rgba(0, 0, 0, .2);
+}
+
+.personaImgContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    padding: 2.2rem;
+    margin: 1.1rem;
 }
 
 .iterationContainer {
@@ -216,4 +225,30 @@ body * {
 .myEmail a {
     color: whitesmoke;
     font-size: 1.1rem;
+}
+
+@media only screen and (max-width: 450px) {
+    .ternBackground {
+        background-size: contain;
+        max-width: 100%;
+        height: 400px;
+    }
+
+    .ternCopy {
+        height: 800px;
+    }
+
+    .affinityImg {
+        padding: 0;
+    }
+
+    .affinityContainer,
+    .affinityImg,
+    .travelContainer,
+    .empathyContainer {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
 }
