@@ -25,7 +25,6 @@ body * {
     height: 600px;
     max-width: 100%;
     padding: 2.2rem;
-    margin: 1.1rem;
 }
 
 .sectionOne,
@@ -53,7 +52,7 @@ body * {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin: 2.2rem;
+    padding: 2.2rem;
 }
 
 .affinityImg {
@@ -156,7 +155,6 @@ body * {
     flex-direction: column;
     text-align: center;
     justify-content: baseline;
-    margin: 1rem;
     padding: 1rem;
 }
 
