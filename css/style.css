@@ -224,7 +224,7 @@ body * {
     font-size: 1.1rem;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 31.25em) {
     h1, h3 {
         text-align: center;
     }
