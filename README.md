@@ -1,22 +1,25 @@
-# Tern Case Study Overview #
+# Unwind Case Study Overview #
 
 ## The Problem ##
-Users may typically plan a trip to a particular destination, but they may not always have plans to fill the gaps, especially on longer trips
+Many adults struggle to escape negative mobile device usage patterns before bed, making it difficult to relax and get a good nights sleep. Users need a simpler way to form better unwinding habits to promote healthier sleep
 
 ## The Solution ##
-Tern is a travel companion app that serves as a means to make both local food and activity recommendations to you based on where you’re located at
+Unwind was created to allow users to utilize their devices in a more positive way, form healthier habits and provide them with a moment of peace before bed
+
+## Team ##
+I collaborated with two other ux designers
 
 ## Role ##
 UX Designer
 
 ## Tools ## 
-Figma, Google Forms, Miro, FlowMapp, InVision
+Zoom, Figma, Google Forms, Miro, FlowMapp, InVision
 
 ## Duration ##
 3 weeks
 
 ## Case Study web page ##
-[click here to view the Tern Mobile App Case Study](https://scarrollkeene.github.io/tern_case_study/)
+[click here to view the Unwind Mobile App Case Study](https://scarrollkeene.github.io/unwind_case_study/)
 
-## Tern Mobile App Figma Link ##
-[click here to see the Tern high-fidelity prototype done in Figma](https://www.figma.com/proto/RNcmtjOJVtpbQDlhksHFIp/Tern-Mobile-App?page-id=0%3A1&node-id=13%3A13&viewport=261%2C48%2C0.15&scaling=scale-down&starting-point-node-id=13%3A13)
+## Unwind Mobile App Figma Link ##
+[click here to see the Unwind Mobile App high-fidelity prototype done in Figma](https://www.figma.com/proto/w6yFUjGz0hdNVLPOCdsxBa/User-Persona-Unwind?page-id=2704%3A1733&node-id=2704%3A1734&starting-point-node-id=2704%3A1734)
