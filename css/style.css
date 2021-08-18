@@ -224,7 +224,11 @@ body * {
     font-size: 1.1rem;
 }
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 500px) {
+    h1, h3 {
+        text-align: center;
+    }
+
     .ternBackground {
         background-size: cover;
         max-width: 100%;
